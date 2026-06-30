@@ -1,3 +1,3 @@
 docker compose up -d
 
-docker compose down --revemo-orphans
+docker compose down --remove-orphans
